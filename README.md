@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+nice day
 <!--
 **openstuddev/openstuddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
